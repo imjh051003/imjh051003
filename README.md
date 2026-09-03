@@ -50,7 +50,7 @@
 - 다양한 회귀 모델의 예측 성능 비교
 - 모델 결과를 기반으로 주요 가격 결정 요인 분석
 
-👉 Project Repository 준비 중
+[🔗 View Project](https://github.com/imjh051003/house-price-prediction)
 
 ---
 
