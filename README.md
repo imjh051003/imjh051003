@@ -1,4 +1,4 @@
-# 👋 Hi, I'm imjh051003
+# 👋 Hi, I'm JeongHyeon Lee
 
 ### Data Analytics · AI · Marketing
 
@@ -45,10 +45,10 @@
 
 `Python` `Machine Learning` `Regression` `Feature Engineering`
 
-- 주택가격에 영향을 미치는 주요 변수 분석
-- 범주형 변수 Encoding 및 데이터 전처리
-- 다양한 회귀 모델의 예측 성능 비교
-- 모델 결과를 기반으로 주요 가격 결정 요인 분석
+- 데이터 특성을 고려한 결측치 처리
+- Ridge · Lasso · ElasticNet 모델 성능 비교
+- 모델 성능 및 예측 결과 시각화
+- 최종 모델 선정 및 주요 가격 결정 요인 분석
 
 [🔗 View Project](https://github.com/imjh051003/house-price-prediction)
 
@@ -58,7 +58,7 @@
 
 **금리 변화에 따른 산업별 주식시장 반응 분석**
 
-`Python` `Regression` `Time Series` `Statistics`
+`Python` `Regression` `Statistics` `Financial Data`
 
 - 금리 변화와 산업별 수익률의 관계 분석
 - 금리 상승·하락에 따른 비대칭 반응 검정
@@ -69,23 +69,83 @@
 
 ---
 
-### 👥 03. Marketing Analytics
+### 📊 03. Marketing Strategy Project
 
-**고객 데이터를 활용한 마케팅 인사이트 도출**
+**시장·소비자 분석을 바탕으로 기업의 마케팅 전략을 제안한 프로젝트**
 
-`Python` `Customer Analytics` `Marketing`
+`Marketing` `Market Research` `Strategy` `Generative AI`
 
-> Coming Soon
+- 시장 및 경쟁 환경 분석
+- 타깃 고객 및 소비자 인사이트 도출
+- 핵심 마케팅 문제 정의
+- 분석 결과를 기반으로 마케팅 전략 및 실행 방안 제안
+- Generative AI를 활용한 아이디어 확장 및 전략 검토
+
+👉 Project Repository 준비 중
 
 ---
 
-### 🤖 04. AI Automation
+### 🤖 04. AI Service Planning
 
-**Generative AI를 활용한 데이터 분석 및 업무 자동화**
+**AI를 활용한 서비스 기획 프로젝트**
 
-`AI` `Automation` `Data Analytics`
+`AI` `Service Planning` `Data` `UX`
 
-> Coming Soon
+- 사용자 문제 정의
+- AI 활용 서비스 아이디어 기획
+- 서비스 구조 및 핵심 기능 설계
+- 분석 결과를 서비스 제안으로 구체화
+
+👉 Project Repository 준비 중
+
+<br>
+
+## 🌱 Experience & Activities
+
+### 🏆 The Marketer
+**경영대학 주최 교내 마케팅 대회**
+
+- 시장·소비자 분석을 기반으로 기업 마케팅 전략 기획
+- 팀원별 역할 조율 및 회의 내용 정리
+- 전략 보고서 제작 및 최종 발표
+
+---
+
+### ⚽ K리그 경기 관람 활성화 AI 서비스 기획
+**데이콘 공모전**
+
+- AI 기반 경기 관람 활성화 서비스 아이디어 기획
+- 서비스 구조 및 핵심 기능 설계
+- 보고서 구성 및 내용 정리
+
+---
+
+### 👥 학생회 기획팀
+**교내 학생회 활동**
+
+- 행사 및 프로그램 기획
+- 팀원과의 협업을 통한 프로젝트 운영
+- 일정 및 업무 조율 경험
+
+<br>
+
+## 📜 Certifications
+
+| Certification | Organization | Status |
+|---|---|---|
+| 자격증명 | 발급기관 | 취득 |
+| 자격증명 | 발급기관 | 취득 |
+| 자격증명 | 발급기관 | 준비 중 |
+
+<br>
+
+## 🧩 Additional Experience
+
+| Activity | Category | Description |
+|---|---|---|
+| The Marketer | Marketing | 시장·소비자 분석 및 마케팅 전략 기획 |
+| K리그 AI 서비스 기획 | AI / Planning | AI 기반 서비스 기획 및 보고서 작성 |
+| 학생회 기획팀 | Leadership / Planning | 행사 기획 및 팀 프로젝트 운영 |
 
 <br>
 
@@ -97,5 +157,5 @@
 
 ## 📫 Contact
 
-- Email: your-email@example.com
+- Email: imjh051003@naver.com
 - GitHub: @imjh051003
