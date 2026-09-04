@@ -102,13 +102,12 @@
 
 <br>
 
-## 📜 Certifications
+## 📜 Certifications & Language
 
-| Certification | Organization | Status |
+| Certification | Organization | Result |
 |---|---|---|
-| 자격증명 | 발급기관 | 취득 |
-| 자격증명 | 발급기관 | 취득 |
-| 자격증명 | 발급기관 | 준비 중 |
+| **SQLD (SQL Developer)** | 한국데이터산업진흥원 (K-DATA) | ✅ 취득 |
+| **TOEIC Speaking** | ETS | IH |
 
 <br>
 
