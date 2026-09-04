@@ -81,7 +81,7 @@
 - 분석 결과를 기반으로 마케팅 전략 및 실행 방안 제안
 - Generative AI를 활용한 아이디어 확장 및 전략 검토
 
-[🔗 View Project](https://github.com/imjh051003/marketing-stratagy-project)
+[🔗 View Project](https://github.com/imjh051003/marketing-strategy-project)
 
 
 ---
