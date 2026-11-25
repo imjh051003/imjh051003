@@ -1,9 +1,8 @@
 # 👋 Hi, I'm JeongHyeon Lee
 
-### Data Analytics · AI · Marketing
+### Data Analytics · AI 
 
-> 데이터를 통해 문제를 정의하고,  
-> 분석 결과를 실제 비즈니스 의사결정으로 연결하는 것에 관심이 있습니다.
+
 
 <br>
 
