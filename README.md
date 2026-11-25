@@ -103,15 +103,6 @@
 | **SQLD (SQL Developer)** | 한국데이터산업진흥원 (K-DATA) | ✅ 취득 |
 | **TOEIC Speaking** | ETS | IH |
 
-<br>
-
-## 🧩 Additional Experience
-
-| Activity | Category | Description |
-|---|---|---|
-| The Marketer | Marketing | 시장·소비자 분석 및 마케팅 전략 기획 |
-| K리그 AI 서비스 기획 | AI / Planning | AI 기반 서비스 기획 및 보고서 작성 |
-| 학생회 기획팀 | Leadership / Planning | 행사 기획 및 팀 프로젝트 운영 |
 
 <br>
 
